@@ -10,7 +10,7 @@ from django.template import RequestContext
 from books.models import Author,book
 from django.core.exceptions import ObjectDoesNotExist
 import re
-#123456#
+
 
 
 def home(request):
