@@ -11,7 +11,7 @@ from books.models import Author,book
 from django.core.exceptions import ObjectDoesNotExist
 import re
 
-#12345#
+
 
 def home(request):
     disk={"contain":''}
